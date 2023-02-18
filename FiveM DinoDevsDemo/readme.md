@@ -48,4 +48,4 @@ You can use the normal Injector published on Github to compile it.
 ## <a id="setup2"></a> 🗒 〢 Product
 - If the free version does not work You can pay to buy a personal project.
 - Safe  on main account without getting banned / no need to turn off virus scan Scroll down to the bottom to read more.
-- [Discord](https://discord.gg/2euDQqzD8Y](https://discord.gg/r7eP96R7j8) 
+- [Discord](https://discord.gg/r7eP96R7j8) 
