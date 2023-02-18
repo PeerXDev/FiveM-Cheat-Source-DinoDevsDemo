@@ -1,7 +1,6 @@
 <h1 align="center">
   Fivem Cheat Demo 💉
 </h1>
----
 
 ## <a id="content"></a>📜 〢 Read
 
