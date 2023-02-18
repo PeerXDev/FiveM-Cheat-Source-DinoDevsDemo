@@ -10,21 +10,15 @@
 
 ## <a id="features"></a>🛑 〢 Features
 
-### Exec
-- Injector .dll 8 .lua 
-- Dumper Scripts (All Client)
-- Resource
-- Webhook Delete
-- LUA Menu
-
 ### MISC
 - Godmode 
 - Aimbot 
 - SuperJump
 - Save & Config
 - Bypass 
-
-
+- Memory Aimbot
+- Snaplines, Box, Healthbars
+- Give Weapon To Ped 
 ---
 
 ## <a id="setup"></a> 📁 〢 Install
